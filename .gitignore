@@ -5,3 +5,7 @@ obj/
 .idea/
 *.swp
 .DS_Store
+
+# release artifacts
+NoPmcTruce-*.zip
+RELEASE_NOTES.md
